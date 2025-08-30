@@ -12,7 +12,8 @@
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing.\
 ✉️ &nbsp;You can shoot me an email at abhivindya639@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 ### 🛠 &nbsp;Tech Stack
 
